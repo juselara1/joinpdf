@@ -1,0 +1,9 @@
+build/*
+.firebase/*
+.obsidian/*
+*.env
+*.venv
+*.ipynb
+*.lock
+**/*__pycache__/*
+**/*.ipynb_checkpoints/*
