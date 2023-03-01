@@ -9,7 +9,7 @@ authors = [{name = "Juan Lara", email = "julara@unal.edu.co"}]
 description = "A simple cli that merge multiple PDF files."
 requires-python = ">3.8"
 dependencies = [
-    "pymupdf"
+    "pymupdf", "tqdm"
 ]
 
 [project.optional-dependencies]
