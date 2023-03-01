@@ -1,6 +1,8 @@
 # joinpdf
 ---
 
+<a href="https://pypi.python.org/pypi/joinpdf"><img src="https://img.shields.io/pypi/v/joinpdf.svg"/></a>
+
 A simple cli that merge multiple PDF files.
 
 ## Installation

@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["neovim"]
+dev = ["neovim", "flit"]
 
 [tool.setuptools.packages.find]
 where = ["src/"]
